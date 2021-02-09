@@ -1,6 +1,6 @@
 # Dev_Web
 
-### Curso introdutório sobre criação e desenvolvimento de conteúdos e serviços para web, em sites e aplicativos de celular.
+### Curso introdutório sobre criação e desenvolvimento de conteúdos e serviços para web
 
 1. **Meu primeiro site online**: Aprenda a criar uma página simples usando a linguagem **HTML** e publicá-la online para qualquer pessoa acessar na internet usando o serviço de hospedagem gratuita da **Vercel.com**. (2h)
 
