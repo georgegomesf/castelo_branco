@@ -1,14 +1,14 @@
 # Dev_Web
 
-### Curso introdutório sobre criação e desenvolvimento de conteúdos e serviços para web
+### Introdução às tecnologias de Desenvolvimento Web
 
-1. **Meu primeiro site online**: Aprenda a criar uma página simples usando a linguagem **HTML** e publicá-la online para qualquer pessoa acessar na internet usando o serviço de hospedagem gratuita da **Vercel.com**. (2h)
+1. **O Desenvolvedor Web**: descubra como funciona o universo profissional do desenvolvimento de páginas e serviços web, e conheça as diferentes tecnologias usadas no lado do cliente (**frontend**) e no lado do servidor (**backend**) (2h)
 
-2. **Criando com estilo**: Aprenda a aplicar estilos na sua página com a linguagem **CSS** e os recursos de padronização de elementos visuais como Bootstrap e **Material Design**. (2h)
+2. **Meu primeiro site online**: Aprenda a criar uma página simples usando a linguagem **HTML** e publicá-la online para qualquer pessoa acessar na internet usando o serviço de hospedagem gratuita da **Vercel.com**. (2h)
 
-3. **Efeitos especiais**: Aprenda a incluir os recursos da linguagem **JavaScript** em sua página, principalmente para fortalecer a interação em tempo real com o usuário. (2h)
+3. **Criando com estilo**: Aprenda a aplicar estilos na sua página com a linguagem **CSS** e os recursos de padronização de elementos visuais como Bootstrap e **Material Design**. (2h)
 
-4. **A carreira de Desenvolvedor Web**: descubra como funciona o universo profissional do desenvolvimento de páginas e serviços web, e aprenda a diferenciar tecnologias usadas no lado do cliente (**frontend**) e no lado do servidor (**backend**) (2h)
+4. **Efeitos especiais**: Aprenda a incluir os recursos da linguagem **JavaScript** em sua página, principalmente para fortalecer a interação em tempo real com o usuário. (2h)
 
 5. **Trabalho colaborativo em equipe**: entenda a dinâmica dos projetos colaborativos e aproveite o serviço de hospedagem, versionamento e compartilhamento de códigos da plataforma **GitHub.com**.
 
